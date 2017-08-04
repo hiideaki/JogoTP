@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: "Shamber";
+  src: url('../fonts/Shamber.ttf');
+}
+
+body {
+  margin: 0;
+  padding: 10px;
+  background-color: Black;
+  color: White;
+  font-family: Verdana;
+  font-size: 12px;
+}
+
+#imageLbl {
+  padding-top: 10px;
+  display: block;
+  margin: auto;
+  width: 30px;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  font-family: Shamber;
+}
+
+h2 {
+  font-size: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid White;
+  font-family: Shamber;
+}
